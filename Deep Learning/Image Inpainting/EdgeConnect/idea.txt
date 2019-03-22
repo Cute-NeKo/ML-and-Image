@@ -1,0 +1,2 @@
+注意
+1：networks.py中 InpaintGenerator没有使 spctral_norm 而 EdgeNetwork 中使用了。

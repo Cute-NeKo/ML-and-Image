@@ -1,0 +1,5 @@
+1 这个代码使用的是Self Attention方法，并不是论文中的Context Attention，结果可能有影响。（由Self Attention推测使用这个可能有更好的结果）
+2 可视化一下Attention的权重图
+3 需要解决CheckerBoard
+4 线生成边缘图再进行图像修复效果应该会更好，有了边缘图后修复相当于一个带有边缘条件的上色过程
+5 GAN的discriminator 可以生成一个source map 而不是一个single source
